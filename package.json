@@ -1,6 +1,6 @@
 {
   "name": "csjsify-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack loader for csjs (by github: mkazlauskas)",
   "main": "index.js",
   "scripts": {
