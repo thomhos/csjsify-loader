@@ -12,5 +12,9 @@
     "webpack"
   ],
   "author": "thomhos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomhos/csjsify-loader.git"
+  }
 }
